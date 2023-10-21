@@ -1,0 +1,10 @@
+[req]
+prompt = no
+distinguished_name = dn
+[dn]
+CN = sample_CN [Stamp]
+serialNumber = sample_serialNumber
+O = sample_O
+1.OU =  sample_OU
+C = IR
+emailAddress = sample_emailAddress
